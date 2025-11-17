@@ -64,10 +64,6 @@ I focus on clean architecture, maintainable code, and building solutions that me
 - Prevented deadlocks, ensured reliability under load  
 **Tech:** Java, Concurrency, JUnit
 
----
-
-## 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiorgiCodes&layout=compact)
 
 ---
  
