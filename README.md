@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Giorgi — Full-Stack Developer
 
 
-I am a Full-Stack Developer with hands-on experience building web applications using **.NET, C#, React, JavaScript, Python FastAPI, and SQL**.  
+I am a Full-Stack Developer skilled in building web applications using **.NET, C#, React, JavaScript, Python FastAPI, and SQL**.  
 I enjoy working across the stack, start from designing REST APIs and data models to building responsive UI components.  
 I focus on clean architecture, maintainable code, and building solutions that meet real user and business needs.
 
