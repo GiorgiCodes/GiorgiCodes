@@ -1,16 +1,14 @@
 <div align="center">
   <h1>👋 Hi, I'm Giorgi</h1>
-  <h3>Full Stack Developer | .NET ecosystem & Cloud Architecture</h3>
-  
+  <h3>Software Developer</h3>
+
   <p>
-    <b>I bridge backend architecture with frontend design to build high-performance systems.</b>
+    <b>I build user-focused web applications with reliable backend systems.</b>
     <br>
-    Specialized in C#, ASP.NET Core, React, and SQL Server.
+    Experience across React, JavaScript, .NET, REST APIs, and SQL, with a strong interest in
+    cloud-based and AI-driven technologies.
   </p>
-
-
 </div>
-
 <br />
 
 ---
